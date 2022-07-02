@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Services réseaux',
+        title: 'Services réseaux - PMG',
         logo: {
           alt: 'My Site Logo',
           src: 'img/index.png',
@@ -73,7 +73,7 @@ const config = {
           // },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'http://192.168.17.132/makhtar/docs-services-reseaux',
             label: 'Gitlab',
             position: 'right',
           },
@@ -87,7 +87,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/intro',
               },
             ],
           },
