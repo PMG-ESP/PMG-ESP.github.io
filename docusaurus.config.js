@@ -10,7 +10,7 @@ const config = {
   tagline: 'Pr. Ouya',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/esp.ico',
 
@@ -67,7 +67,7 @@ const config = {
         items: [
           // {
           //   type: 'doc',
-          //   docId: 'intro',
+          //   docId: 'intro.md',
           //   position: 'left',
           //   label: 'Tutorial',
           // },
@@ -85,10 +85,7 @@ const config = {
           {
             title: 'Docs',
             items: [
-              {
-                label: 'Tutorial',
-                to: '/intro',
-              },
+              
             ],
           },
           {
@@ -111,10 +108,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
