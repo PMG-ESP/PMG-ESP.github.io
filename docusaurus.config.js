@@ -16,8 +16,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ESP', // Usually your GitHub org/user name.
-  projectName: 'Docs Services réseaux', // Usually your repo name.
+  organizationName: 'PMG-ESP', // Usually your GitHub org/user name.
+  projectName: 'PMG-ESP.github.io', // Usually your repo name.
+  deploymentBranch: 'déploiement',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want

@@ -5,7 +5,7 @@ Openfire est un serveur de collaboration en temps réel (RTC) sous licence Open 
 
 #### Installation d'openFire
 
-Télécharger la dérnière version d'openFire 
+Télécharger la dernière version d'openFire 
 ``` shell
 wget https://objects.githubusercontent.com/github-production-release-asset-2e65be/18511687/1903a7e8-c322-4525-9bbe-06732fb237f2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220704T191259Z&X-Amz-Expires=300&X-Amz-Signature=419b34a242d399f8df8cb229e2c1b8ad17a2cbffb2fb4563497ced65c32a1bec&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=18511687&response-content-disposition=attachment%3B%20filename%3Dopenfire_4_7_1.tar.gz&response-content-type=application%2Foctet-stream
 ```

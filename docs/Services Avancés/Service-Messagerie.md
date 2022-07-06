@@ -19,7 +19,7 @@ login@nomd’hote.nomcompletdomaine mais pour des raisons de sécurité et autre
 
 ---
 
-### installation et configuration d'un serveur de messagerie sous ubuntu(20.04)
+### Installation et configuration d'un serveur de messagerie sous ubuntu(20.04)
 
 **NB**: Il faut au préalable avoir un utilisateur mysql
 #### Installation des paquets

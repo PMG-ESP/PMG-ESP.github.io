@@ -15,7 +15,11 @@ sudo apt install  slapd ldap-utils
     sudo nano /etc/ldap/slapd.conf
     ```
     Modifier les paramètres suivants:
-    >choisir le backend
+    >Choisr le driver
+    ``` shell
+    moduleload      back_hdb
+    ```
+    choisir le backend
     ``` shell
     #######################################################################
     # Specific Backend Directives for mdb:
@@ -83,3 +87,7 @@ sudo apt install  slapd ldap-utils
     ``` shell
     URI ldap://127.0.0.1
     ```
+- Redémarrer le serveur
+``` shell
+sudo service slapd restart
+```
