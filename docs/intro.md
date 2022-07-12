@@ -21,16 +21,26 @@ Par la suite nous allons faire l’implémentation de quelques-uns de ces servic
 
 #### Logiciel serveur
 
-> Un logiciel serveur donne à un ordinateur la compétence d'offrir un service à d'autres machines.
+  > Un logiciel serveur donne à un ordinateur la compétence d'offrir un service à d'autres machines.
 
 #### Logiciel client
 
-> Un logiciel client donne à un ordinateur la compétence d'utiliser les services offerts par un serveur.
+  > Un logiciel client donne à un ordinateur la compétence d'utiliser les services offerts par un serveur.
 
 #### Protocole
 
->Un protocole informatique est un ensemble de règles qui régissent les échanges de données ou le comportement collectif de processus ou d'ordinateurs  en réseaux ou d'objets connectés.
+  >Un protocole informatique est un ensemble de règles qui régissent les échanges de données ou le comportement collectif de processus ou d'ordinateurs  en réseaux ou d'objets connectés.
 
 #### Port
 
- >la notion de port logiciel permet, sur un ordinateur donné, de distinguer différents interlocuteurs. Ces interlocuteurs sont des programmes informatiques qui, selon les cas, écoutent ou émettent des informations sur ces ports. Un port est distingué par son numéro. 
+  >la notion de port logiciel permet, sur un ordinateur donné, de distinguer différents interlocuteurs. Ces interlocuteurs sont des programmes informatiques qui, selon les cas, écoutent ou émettent des informations sur ces ports. Un port est distingué par son numéro. 
+
+#### Machine vitruelle
+
+>Une machine virtuelle ou VM est un environnement entièrement virtualisé qui fonctionne sur une machine physique. Elle exécute son propre système d’exploitation (OS) et bénéficie des mêmes équipement qu’une machine physique : CPU, mémoire RAM, disque dur et **carte réseau**.
+
+#### Le mode promiscuité
+
+>En mode promiscuité, une carte réseau ne filtre pas les paquets. Chaque paquet réseau sur le segment réseau est directement transmis au système d'exploitation (OS) ou à toute application de surveillance. Si elles sont configurées, les données sont également accessibles par n'importe quelle machine virtuelle (VM) ou OS invité sur le système hôte.
+
+
